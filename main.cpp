@@ -13,7 +13,7 @@ int main() {
     std::ifstream txtFile;
     std::string path;
     char buf[256];
-    
+
     do
     {
         std::cout << "Please, enter file name to open with full path: ";
