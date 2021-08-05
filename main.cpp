@@ -28,5 +28,6 @@ int main() {
         std::cout << buf;
 
     }
+    txtFile.close();
     return 0;
 }
